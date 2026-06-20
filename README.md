@@ -133,10 +133,6 @@ Project/
 │
 ├── README.md
 ├── Arduino_Code.ino
-├── Circuit_Diagram.png
-├── Images/
-├── Libraries/
-└── Report.pdf
 ```
 
 ---
@@ -175,7 +171,7 @@ Project/
 
 ## Developed By
 
-**Bhoomika Reddy**
+**Arpita Annigeri**
 
 Department of Computer Science and Engineering
 
